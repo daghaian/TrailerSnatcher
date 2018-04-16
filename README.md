@@ -8,6 +8,7 @@ Python 2.7 w/ the following libraries
 
 1. Requests (https://pypi.org/project/requests/)
 2. Youtube_dl (https://pypi.org/project/youtube_dl/)
+3. Beautiful Soup (https://pypi.org/project/bs4/)
 
 
 ## Environment Setup
